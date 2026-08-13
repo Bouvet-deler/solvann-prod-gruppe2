@@ -198,6 +198,8 @@ pytest
 cd backend
 black .          # format
 ruff check .     # lint
+
+test
 ruff check --fix .
 ```
 
