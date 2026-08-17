@@ -319,3 +319,5 @@ The architecture is ready for it:
 - Issue JWTs and verify them with a `@require_auth` decorator applied to protected routes
 - Store the token in `localStorage` or an `httpOnly` cookie
 - Add an Axios request interceptor in `frontend/src/services/api.ts` to attach the token
+
+Test
